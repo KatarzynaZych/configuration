@@ -6,3 +6,4 @@ accounts:
   username: admin
   password: admin
   ddl-mode: update
+  allow-get-accounts: false
