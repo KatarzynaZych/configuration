@@ -1,3 +1,4 @@
 
 customers:
   allow-get-customers: true
+  allow-get-accounts: true
