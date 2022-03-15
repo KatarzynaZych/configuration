@@ -1,4 +1,3 @@
-server:
-  port: 7777
+
 cards:
   allow-get-cards: true

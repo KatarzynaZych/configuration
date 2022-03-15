@@ -1,5 +1,4 @@
-server:
-  port: 7776
+
 accounts:
   datasource:
     url: jdbc:mysql://localhost:3306/accountsapp?serverTimezone=Europe/Warsaw&userSSL=False

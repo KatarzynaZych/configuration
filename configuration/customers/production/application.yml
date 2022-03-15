@@ -1,4 +1,3 @@
-server:
-  port: 7778
+
 customers:
   allow-get-customers: true
