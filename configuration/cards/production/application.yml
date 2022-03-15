@@ -1,0 +1,4 @@
+server:
+  port: 7776
+cards:
+  allow-get-cards: true

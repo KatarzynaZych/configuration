@@ -1,9 +1,4 @@
 server:
   port: 7778
 customers:
-#  datasource:
-#  url: jdbc:mysql://localhost:3306/accountsapp?serverTimezone=Europe/Warsaw&userSSL=False
-#  username: admin
-#  password: admin
-#  ddl-mode: update
   allow-get-customers: true
